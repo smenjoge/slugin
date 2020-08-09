@@ -37,13 +37,13 @@ function ResultRow(props) {
                 >
                     View
                 </a>
-                <a                     
+                <button                     
                     type="button" 
                     className="btn btn-secondary btn-sm m-1"
                     onClick={() => saveOrDelBook(source)}
                 >
                     {props.children}
-                </a>
+                </button>
             </div>
         </div>
     )
