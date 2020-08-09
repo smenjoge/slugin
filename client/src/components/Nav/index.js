@@ -6,7 +6,7 @@ function Nav() {
   const location = useLocation();
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-      <Link to="/" className="navbar-brand" >
+      <Link to="/" className="navbar-brand" style={{"fontSize":"x-large", "color":"Yellow"}} >
         Google Books
       </Link>
       <div className="collapse navbar-collapse">
