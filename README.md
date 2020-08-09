@@ -8,9 +8,6 @@ This application can be used to Search for or View a book. User can choose to sa
 
 ## Table of Contents
 * [Usage](#Usage)
-* [Contributing](#Contributing)
-* [Tests](#Tests)
-* [Questions](#Questions)
 ## Usage
 ```
 1) On Home page, there are two tabs in tha Nav bar at the top. 
