@@ -22,7 +22,6 @@ function Search() {
   };
 
   function reformatAPIData(data) {
-    console.log(`Books from DB: `, data)
     if(data.length > 0) {
       resultList = data.map(book => {
         return {
